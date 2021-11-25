@@ -5,7 +5,7 @@ ___
 #### First clone this repository, install the dependencies, and setup your .env file.
 
 ```phpregexp
-git clone git@github.com:JeffreyWay/Laravel-From-Scratch-Blog-Project.git blog
+git clone https://github.com/AzizbekDev/blog.git
 
 composer install
 
